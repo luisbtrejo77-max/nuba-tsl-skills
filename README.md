@@ -2,7 +2,7 @@
 
 Skills de Claude para el flujo de trabajo de NUBA y The Suite Life (TSL): cotizaciones, documentos para cliente, ofertas, anuncios y registro en NUBA Core.
 
-Última actualización: 23 nov 2026.
+Última actualización: 25 nov 2026.
 
 ## Estructura
 
@@ -22,6 +22,7 @@ Cada carpeta es una skill independiente. El archivo `SKILL.md` lleva el nombre y
 |---|---|
 | `nuba-core-expediente` | Abrir un expediente en NUBA Core a nombre de Mariana Medina y registrar servicios de proveedores con su pago y comisión (prepago neto, prepago comisionable o pago directo cliente). |
 | `nuba-core-cobro` | Crear un cobro en NUBA Core asociado a un expediente; Core manda la solicitud de cobro al email capturado. |
+| `nuba-core-comisiones` | Seguimiento y registro de comisiones de Mariana Medina: cobrar a proveedores las comisiones Por Cobrar de más de 90 días del portal TSL y resolver los Registro de Comisiones de finanzas en Core. |
 
 ### Cotizar (resultados en el chat)
 
