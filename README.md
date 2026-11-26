@@ -2,7 +2,7 @@
 
 Skills de Claude para el flujo de trabajo de NUBA y The Suite Life (TSL): cotizaciones, documentos para cliente, ofertas, anuncios y registro en NUBA Core.
 
-Última actualización: 25 nov 2026.
+Última actualización: 26 nov 2026.
 
 ## Estructura
 

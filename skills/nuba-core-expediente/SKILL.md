@@ -26,7 +26,7 @@ Ir describiendo en el chat cada paso que se hace y lo que se encontró.
 Menú Expedientes → **Nuevo expediente** (o la URL de arriba). Son 3 pasos: Cabecera, Pasajeros y Servicios.
 
 **Cabecera**
-- **Nombre viaje:** `LUGARDEVIAJE_NOMBREDECLIENTE_MESYAÑO`, por ejemplo CANCUN_GARCIA_JUNIO2025.
+- **Nombre viaje:** `Destino, Mes Año`, con el destino en español y el mes abreviado en inglés (Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec). Por ejemplo: Sudáfrica, Jan 2027.
 - **Agencia:** viene **vacía**. Escribir "MARIANA" y elegir **MEX_MARIANA MEDINA - 5658** de la lista. Al elegirla se llenan solos:
   - Travel Adv/Agente Comercial: **MARIANA MEDINA**
   - Línea de negocio ("¿Cómo se opera el expediente?"): **INDEPENDENT CONTRACTORS**
