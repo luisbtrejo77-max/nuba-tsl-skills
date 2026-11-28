@@ -2,7 +2,7 @@
 
 Skills de Claude para el flujo de trabajo de NUBA y The Suite Life (TSL): cotizaciones, documentos para cliente, ofertas, anuncios y registro en NUBA Core.
 
-Última actualización: 26 nov 2026.
+Última actualización: 28 nov 2026.
 
 ## Estructura
 
@@ -42,6 +42,7 @@ Cada carpeta es una skill independiente. El archivo `SKILL.md` lleva el nombre y
 | `tsl-cotizacion-hoteles` | Cotización solo de hoteles, una o varias ciudades. |
 | `tsl-entrega-final-formato-nuevo` | Entrega Final: vuelos por pasajero, hoteles, itinerario, confirmaciones y cierre. |
 | `tsl-guia-viaje-formato-nuevo` | Guía de Viaje: clima, qué empacar, outfits, maletas, propinas y esenciales. |
+| `tsl-cambio-vuelo` | Cambio de Vuelo en PDF: vuelos cancelados con precio pagado, protección de la aerolínea y nuevas opciones con precio, ante cancelaciones o cambios de horario. |
 
 ### Marketing
 
